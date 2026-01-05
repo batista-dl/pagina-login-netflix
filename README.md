@@ -16,5 +16,6 @@ Desenvolvido para fins de estudos.
 
 <img width="1366" height="652" alt="github 2" src="https://github.com/user-attachments/assets/6c00c828-7fc3-4adf-b59a-fa9214a2bd95" />
 
+https://pagina-login-netflix-iota.vercel.app/
 
 
